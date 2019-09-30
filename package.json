@@ -1,0 +1,40 @@
+{
+  "name": "decorator-in-javascript",
+  "version": "1.0.0",
+  "description": "Decorator is a function that receives other function as parameter and extends its behavior without modifying it explicitly and here are my studies about it. It was made due the need of refactoring some ongoing code and knoledge transfer to my squad. ",
+  "main": "-",
+  "dependencies": {
+    "readme-md-generator": "^0.6.3"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.6.2",
+    "@babel/core": "^7.6.2",
+    "@babel/node": "^7.6.2",
+    "@babel/plugin-proposal-decorators": "^7.6.0",
+    "@babel/preset-env": "^7.6.2"
+  },
+  "scripts": {
+    "test": "-"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brunabursi/Decorator-in-Javascript.git"
+  },
+  "keywords": [
+    "decorator",
+    "design-pattern",
+    "pattern",
+    "decorator-in-javascript",
+    "decorator-example",
+    "high-order-function",
+    "abstraction",
+    "refactoring",
+    "refactor"
+  ],
+  "author": "Bruna Bursi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brunabursi/Decorator-in-Javascript/issues"
+  },
+  "homepage": "https://github.com/brunabursi/Decorator-in-Javascript#readme"
+}
